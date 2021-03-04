@@ -34,6 +34,7 @@ Global
 		{F6E55D90-CCD9-4E14-B457-A7A90A8219FF}.Release|Any CPU.ActiveCfg = Release
 		{F6E55D90-CCD9-4E14-B457-A7A90A8219FF}.Release|x64.ActiveCfg = Release
 		{F6E55D90-CCD9-4E14-B457-A7A90A8219FF}.Release|x86.ActiveCfg = Release
+		{F6E55D90-CCD9-4E14-B457-A7A90A8219FF}.Release|x86.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

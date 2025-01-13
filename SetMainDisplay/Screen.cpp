@@ -1,10 +1,10 @@
 #include "Screen.h"
 
-Screen::Screen(int x, int y, int width, int height, const std::wstring& name)
+Screen::Screen(int x, int y, int width, int height, const WCHAR* name)
 {
 	this->X = x;
 	this->Y = y;
 	this->Width = width;
 	this->Height = height;
-	this->name = name;
+	wcsncpy_s(this->name, name, 32);
 }
